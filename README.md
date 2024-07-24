@@ -3,9 +3,13 @@ This Power BI portfolio showcases a comprehensive analysis of the Covid-19 pande
 
 The report includes visualizations and insights into the spread and impact of Covid-19, including:
 # Overview
-- Total cases 
-- Geographic distribution of cases
+- Total cases
+- Confirmed cases
 - Recovered
+- New cases
+- Active cases
+- Increace
+- Geographic distribution of cases
 - Deaths
 
   # Insights
